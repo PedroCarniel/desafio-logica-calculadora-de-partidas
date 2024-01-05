@@ -54,7 +54,7 @@ function calcularNivel(saldoVitorias){
 }
 
 // Teste da função
-let vitorias = 120;
+let vitorias = 100;
 let derrotas = 13;
 
 let saldoVitorias = vitorias - derrotas;
